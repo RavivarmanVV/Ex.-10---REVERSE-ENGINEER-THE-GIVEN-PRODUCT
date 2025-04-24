@@ -33,7 +33,8 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/user-attachments/assets/aa4ea707-901f-4ea5-b544-38d4cff3eae1)
+![image](https://github.com/user-attachments/assets/45e1837b-39aa-4ed0-9698-0d11fcf21175)
+
 
 
 ### Name: RavivarmanVV
